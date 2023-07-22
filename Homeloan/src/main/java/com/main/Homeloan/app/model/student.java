@@ -7,6 +7,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Data
 public class student {
-	int id;
-	String name;
+	private int id;
+	private String name;
 }
